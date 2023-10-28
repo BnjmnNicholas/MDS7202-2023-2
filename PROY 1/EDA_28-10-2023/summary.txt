@@ -1,0 +1,49 @@
+Tipo de las variables:
+ID                    int64
+Name                 object
+Sex                  object
+Team                 object
+NOC                  object
+Games                object
+Year                  int64
+Season               object
+City                 object
+Sport                object
+Event                object
+Medal                object
+age-height-weight    object
+dtype: object
+
+Porcentaje de valores únicos por variable:
+ID                   50.004795
+Name                 49.695333
+Sex                   0.000738
+Team                  0.436713
+NOC                   0.084835
+Games                 0.018811
+Year                  0.012910
+Season                0.000738
+City                  0.015492
+Sport                 0.024344
+Event                 0.282167
+Medal                 0.001107
+age-height-weight    30.603506
+dtype: float64
+
+Porcentaje de valores nulos por variable:
+ID                    0.000000
+Name                  0.000000
+Sex                   0.000000
+Team                  0.000000
+NOC                   0.000000
+Games                 0.000000
+Year                  0.000000
+Season                0.000000
+City                  0.000000
+Sport                 0.000000
+Event                 0.000000
+Medal                85.326207
+age-height-weight     0.000000
+dtype: float64
+
+Resumen de estadísticas por variable:
