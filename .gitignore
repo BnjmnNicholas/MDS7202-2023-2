@@ -17,3 +17,6 @@ PROY 1/EDA_30-10-2023/plots/correlation.pdf
 PROY 1/EDA_30-10-2023/plots/City.pdf
 PROY 1/EDA_30-10-2023/plots/age-height-weight.pdf
 PROY 1/EDA_30-10-2023/plots/cramer_v.pdf
+*.pdf
+*.csv
+*.txt
